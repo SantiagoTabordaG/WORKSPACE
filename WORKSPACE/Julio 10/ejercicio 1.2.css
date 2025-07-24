@@ -1,0 +1,36 @@
+body {
+    font-family: cursive;
+    background: #e2f2fd;
+    margin: 40px;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+ol {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0;
+    list-style-position: inside;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+ol li {
+    padding: 12px 20px;
+    font-size: 1.1em;
+    border-bottom: 1px solid #ddd;
+}
+
+.uno {
+    background-color: #f3e0ff;
+}
+
+.dos {
+    background-color: #e0dafd;
+}

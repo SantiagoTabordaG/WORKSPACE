@@ -1,0 +1,32 @@
+body {
+    background-color: #fffbc9;
+    font-family: cursive;
+}
+
+#Alegria { 
+    background-color: #FFF59D;
+}
+#Tristeza {
+    background-color: #90CAF9;
+}
+#Ira {
+    background-color: #EF9A9A;
+}
+#Miedo {
+    background-color: #B39DDB;
+}
+#Amor {
+    background-color: #F8BBD0;
+}
+#Ansiedad {
+    background-color: #B0BEC5;
+}
+#Sorpresa {
+    background-color: #FFE082;
+}
+#Culpa {
+    background-color: #CE93D8;
+}
+#Esperanza {
+    background-color: #A5D6A7;
+}
